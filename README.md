@@ -8,6 +8,11 @@ A simple web application that generates random user profiles using HTML, CSS, an
 * **Responsive Design**: Optimized for both desktop and mobile views.
 * **Minimalistic UI**: Clean and straightforward interface for quick user profile generation.
 
+🔗 Live Demo
+
+Try the app online here:
+https://code-game-ninja.github.io/Random-User-/
+
 ## 📂 Project Structure
 
 ```
